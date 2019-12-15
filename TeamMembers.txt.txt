@@ -1,0 +1,9 @@
+The dataset divided into two datasets(Organization & Individual):
+
+	Individual Dataset:	
+		Ahmed Hatem 37-14764
+		Mohamed Nawar 37-10770
+		Amr Mostafa 37-2383
+	Organization Dataset:
+		Shady Tantawy 37-10769
+		Ramy Ahmed 37-8380
